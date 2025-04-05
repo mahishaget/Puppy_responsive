@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  width: 100%;
+}
+.puppy_lovers {
+  background-color: rgb(18, 18, 99);
+  color: white;
+}
+.last_text {
+  background-color: rgb(18, 18, 99);
+  color: white;
+}
+.h1 {
+  font-size: 45px;
+}
+h2 {
+  font-size: 35px;
+}
+.part2 {
+  background-color: red;
+}
+@media (min-width: 992px) {
+  .part2 {
+    font-size: 40px;
+  }
+}
